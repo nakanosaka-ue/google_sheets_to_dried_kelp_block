@@ -1,1 +1,2 @@
-# google_sheets_to_dried_kelp_block
+# 概要
+Googleスプレッドシートのfaviconを、Minecraftのこんぶブロックに変換するChrome拡張です。
